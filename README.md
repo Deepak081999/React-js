@@ -1,7 +1,7 @@
 # React Interview Questions & Answers
 
 
-**Note:** This repository is specific to ReactJS. Please check [Javascript Interview questions](https://github.com/sudheerj/javascript-interview-questions) for core javascript questions and [DataStructures and Algorithms](https://github.com/sudheerj/datastructures-algorithms) for DSA related questions or problems.
+**Note:** This repository is specific to ReactJS. Please check [Javascript Interview questions](https://github.com/Deepak081999/JAVASCRPIT).
 
 <table>
     <tr>
