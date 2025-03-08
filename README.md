@@ -1277,7 +1277,7 @@
   </tr>
   
 </table> 
-</details>
+
 
 ## Core React
 
