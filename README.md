@@ -1,7 +1,8 @@
 # React Interview Questions & Answers
 
 
-**Note:** This repository is specific to ReactJS. Please check [Javascript Interview questions](https://github.com/Deepak081999/JAVASCRPIT).
+**Note:** This repository is specific to JavaScrpit. Please check [Javascript Interview questions](https://github.com/Deepak081999/JAVASCRPIT).
+**Note:** This repository is specific to React JS. Please check [Javascript Interview questions](https://github.com/Deepak081999/React-js).
 
 <table>
     <tr>
